@@ -15,18 +15,18 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text -->
 # [Table of Contents](https://nextstrain.org/ncov/2020-03-13?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=2)     
-* [A note on sampling](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=3)
-* [Circulation in Europe](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=4)   
-* [Local transmission in the U.K.](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=6)
-* [Spread of SARS-CoV-2 from Iran](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=7)
-* [Local circulation in Australia](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=8)
-* [Introductions to the U.S.](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=9)
-* [Spread of SARS-CoV-2 in Washington state](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=10)
-* [Spread of SARS-CoV-2 in California](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=11)
-* [What you can do](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=12)
-* [FAQ & common misconceptions](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=13)
-* [Scientific credit](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=14)
+* [Background resources](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=2).     
+* [A note on sampling](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=3).
+* [Circulation in Europe](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=4).   
+* [Local transmission in the U.K.](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=6).
+* [Spread of SARS-CoV-2 from Iran](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=7).
+* [Local circulation in Australia](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=8).
+* [Introductions to the U.S.](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=9).
+* [Spread of SARS-CoV-2 in Washington state](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=10).
+* [Spread of SARS-CoV-2 in California](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=11).
+* [What you can do](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=12).
+* [FAQ & common misconceptions](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=13).
+* [Scientific credit](https://nextstrain.org/community/narratives/nextstrain/ncov/sit-rep/2020-03-13?n=14).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
